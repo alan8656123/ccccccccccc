@@ -1,0 +1,1 @@
+cmd_/home/user/hw2/module/mailbox.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/user/hw2/module/mailbox.ko /home/user/hw2/module/mailbox.o /home/user/hw2/module/mailbox.mod.o

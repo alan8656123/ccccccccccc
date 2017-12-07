@@ -1,0 +1,31 @@
+[33mcommit b9c908c8987aec6e71e48f21893fba32e6f71ce9[m
+Merge: bff83d3 8f1960d
+Author: F74041080 <f74041080@ncku.edu.tw>
+Date:   Wed Dec 6 11:58:08 2017 +0800
+
+    Merge branch 'master' of http://os.csie.ncku.edu.tw:59487/F74041080/hw2_mailbox
+
+[33mcommit bff83d302caf23eff6f8dd87d2c3cf3ccb8723dd[m
+Author: F74041080 <f74041080@ncku.edu.tw>
+Date:   Wed Dec 6 11:57:33 2017 +0800
+
+    “first”
+
+[33mcommit 8f1960d2e7eb4d3753be17c4c654b4630db34e81[m
+Merge: 5a0e93c d232ea7
+Author: F74041080 <f74041080@ncku.edu.tw>
+Date:   Wed Dec 6 01:50:57 2017 +0800
+
+    Merge branch 'master' of http://os.csie.ncku.edu.tw:59487/F74041080/hw2_mailbox
+
+[33mcommit 5a0e93ceb63d3d2c9202eafad74e745fac1f879e[m
+Author: F74041080 <f74041080@ncku.edu.tw>
+Date:   Wed Dec 6 01:46:35 2017 +0800
+
+    “test”
+
+[33mcommit d232ea78fc0379cb5c676bc67b9b368ec7e1e08b[m
+Author: P76061271 <P76061271@ncku.edu.tw>
+Date:   Thu Nov 16 12:25:05 2017 +0800
+
+    Init
